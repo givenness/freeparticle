@@ -2,9 +2,9 @@
 title: About
 ---
 
-I am an operator and artist tangled across music and tech.
+I am an operator and artist tangled in web3 and culture.  
 
-I am currently working on the following teams... 
+Currently, I work on the following teams... 
 
 * [Friends with Benefits](https://fwb.help/) operations & events 
 * [Refraction](https://www.refractionfestival.com/) curation & grants
