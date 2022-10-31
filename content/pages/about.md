@@ -17,3 +17,7 @@ Previously, I co-owned a modular synthesizer company, served as the Director of 
 You can find me on [Telegram](https://t.me/freeparticle), [Twitter](https://twitter.com/dethesaurize), and [Farcaster](https://www.farcaster.xyz/) @freeparticle.
 
 For a longer chat, feel free to book time with me [here](https://calendly.com/yzzi).
+
+-- 
+
+This site is hosted by [Fleek](https://fleek.co) on IPFS. 
