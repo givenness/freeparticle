@@ -11,7 +11,7 @@ Currently, you can find me on the following teams...
 Previously, I co-owned a modular synthesizer company, served as the Director of Operations for a 501(c)(4) non-profit, and performed as [stud1nt](https://stud1nt.nyc/).
 
 #### Connect
-[Telegram](https://t.me/freeparticle)
+[Telegram](https://t.me/free_particle)
 <br>
 [Farcaster](https://fcast.me/freeparticle)
 
