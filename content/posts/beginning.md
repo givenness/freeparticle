@@ -1,8 +1,9 @@
 ---
 title: "Beginning"
-date: 2022-10-30T19:05:46-07:00
+date: 2022-11-02T23:16:18-07:00
 draft: false
-tag: 
+tags: 
+- books
 ---
 
-This is the beginning. 
+I've been on a massive book collection hunt.
