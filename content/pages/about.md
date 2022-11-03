@@ -2,9 +2,7 @@
 title: About
 ---
 
-I am an operator and artist tangled in web3 and culture.  
-
-Currently, I work on the following teams... 
+Currently, you can find me on the following teams...
 
 * [Friends with Benefits](https://fwb.help/) operations & events 
 * [Refraction](https://www.refractionfestival.com/) curation & grants
@@ -14,9 +12,9 @@ Previously, I co-owned a modular synthesizer company, served as the Director of 
 
 #### Connect
 
-You can find me on [Telegram](https://t.me/freeparticle), [Twitter](https://twitter.com/dethesaurize), and [Farcaster](https://www.farcaster.xyz/) @freeparticle.
+You can find me on [Telegram](https://t.me/freeparticle), [Twitter](https://twitter.com/dethesaurize), and [Farcaster](https://fcast.me/freeparticle)
 
-For a longer chat, feel free to book time with me [here](https://calendly.com/yzzi).
+For a longer chat,  book time [here](https://calendly.com/yzzi).
 
 -- 
 
